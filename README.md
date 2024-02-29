@@ -156,6 +156,10 @@ ______
 
 _______
 
+***Проект опубликован на хостинге pythonanywhere.com***
+
+*API **Pereval**: https://LNik.pythonanywhere.com/perevals/*<br/>
+*Документация **swagger**: https://LNik.pythonanywhere.com/swagger/<br/>*
 
 ______
 
